@@ -1,0 +1,1 @@
+input("enter 2nd no: ")
